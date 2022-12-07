@@ -16,7 +16,7 @@ To open the website, copy and paste the live link into a browser.
 
 ## Usage
 
-
+The usage of this assignment was to apply HTML and CSS to edit provided code.
 
 ## Credits
 
